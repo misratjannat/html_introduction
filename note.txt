@@ -1,0 +1,18 @@
+1.Project folder
+2.File + Folder
+3.Install sublime text
+4.Html template
+5.What is HTML
+6.Version control
+7.Element
+8.Tag
+9.Attribute
+10.Heading
+11.Paragraph
+12.Anchor
+13.Image
+14.Content
+15.Speed optimization
+16.File path
+17.SEO
+18.Image optimization
